@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Walnut MagSafe ",
+      "image": "/p1.png",
+      "price": "$120",
+      "id": "1"
+    },
+    {
+      "name": "Walnut Laptop ",
+      "image": "/p2.png",
+      "price": "$150",
+      "id": "2"
+    },
+    {
+      "image": "/p3.png",
+      "name": "Walnut iPad Stand",
+      "price": "$80",
+      "id": "3"
+    },
+    {
+      "image": "/p4.png",
+      "name": "Walnut Monitor Stand",
+      "price": "$100",
+      "id": "4"
+    }
+  ]
+}
